@@ -10,8 +10,9 @@ The system analyzes energy usage patterns, calculates energy waste scores, predi
 
 # 🌐 Live Demo
 
-🚧 Coming soon
+🚀 **Launch the live dashboard here:**
 
+👉 https://enersight-dashboard.streamlit.app/
 ---
 
 # 📊 Dashboard Preview
