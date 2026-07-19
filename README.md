@@ -19,7 +19,7 @@ The system analyzes energy usage patterns, calculates energy waste scores, predi
 
 ## Main Dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Dashboard_overview.png)
 
 ## Building Analysis
 
@@ -27,7 +27,7 @@ The system analyzes energy usage patterns, calculates energy waste scores, predi
 
 ## Waste Ranking
 
-![Waste Ranking](screenshots/waste_ranking.png)
+![Waste Ranking](screenshots/Waste_ranking.png)
 
 ---
 
