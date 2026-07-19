@@ -124,6 +124,8 @@ pip install -r requirements.txt
 Run the dashboard:
 
 streamlit run src/dashboard.py
+
+
 📚 Dataset
 
 EnerSight uses the ASHRAE Great Energy Predictor III dataset.
@@ -133,12 +135,16 @@ The dataset includes:
 Building energy consumption records
 Building metadata
 Weather information
+
+
 🔮 Future Improvements
 Allow users to upload their own building energy data
 Integrate real-time IoT energy sensors
 Improve prediction accuracy
 Add automated energy-saving recommendations
 Expand analysis to additional building systems
+
+
 👩‍💻 Author
 
 Anushka Ahsan
