@@ -14,9 +14,10 @@ st.set_page_config(
 waste = pd.read_csv(
     "reports/waste_scores.csv"
 )
-train = pd.read_feather(
-    "data/train.feather"
+train = train = pd.read_feather(
+    "data/demo_train.feather"
 )
+
 
 
 # Logo + title
